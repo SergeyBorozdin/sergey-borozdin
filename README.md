@@ -17,12 +17,8 @@
   ### :man_technologist: About Me :
   
   - Изучаю языки програмирования в свободное от работы время.
+  - Студент Школы 21, SkillBox, Тинькофф Обучение
 
-  - Студент Школы 21, SkillBox, Тиньков Обучение
-
-  - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 
 <div id="badges" align="center">
