@@ -15,6 +15,7 @@ https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-
 
 <div>
  <img src="https://img.icons8.com/metro/2x/c-lowercase.png" title="С" alt="С" width="40" height="40"/>&nbsp;
+  <img src="[https://img.icons8.com/metro/2x/c-lowercase.png](https://img.icons8.com/fluency/2x/c-plus-plus-logo.png)" title="С++" alt="С++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
