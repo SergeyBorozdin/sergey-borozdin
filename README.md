@@ -15,12 +15,24 @@
   ---
   
   ### :man_technologist: About Me :
+  
+  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
 
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 
+   ---
+
+### :hammer_and_wrench: Languages and Tools :
 
 <div id="lang" align="center">
  <img src="https://img.icons8.com/metro/2x/c-lowercase.png" title="С" alt="С" width="40" height="40"/>&nbsp;
@@ -32,9 +44,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
- ---
 
-### :hammer_and_wrench: Languages and Tools :
   
  <div id="counter" align="center">
  <img src="https://komarev.com/ghpvc/?username=SergeyBorozdin&style=flat-square&color=blue" alt=""/>
