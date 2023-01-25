@@ -1,5 +1,8 @@
-# Sergey-Borozdin-
-https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17
+<h1>
+  Привествую тебя на моей страничке
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+// https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17
 
 <div id="header" align="center">
  <img src="https://64.media.tumblr.com/33941b01d11c366cc81a1cbb5d1bf12f/tumblr_mhgb0rshoa1qmo2amo4_500.gifv" width="1000"/>
