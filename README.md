@@ -10,9 +10,7 @@
  <img src="https://64.media.tumblr.com/33941b01d11c366cc81a1cbb5d1bf12f/tumblr_mhgb0rshoa1qmo2amo4_500.gifv" width="1000"/>
 </div>
 
-<div align="center">
-  <img src="https://web.telegram.org/0dd191e9-75cb-49e8-95a6-892d82eb1daa" width="600" height="300"/>
-</div>
+![SergeyBorozdin](imgs/Untitled.png)
 
 
 <div id="badges" align="center">
