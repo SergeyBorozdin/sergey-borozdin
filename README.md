@@ -7,7 +7,7 @@
   
   ---
   
-  ### :man_technologist: About Me :
+  ### :man_technologist: Обо мне :
   
   - Изучаю языки програмирования в свободное от работы время.
   - Студент Школы 21, SkillBox, Тинькофф Обучение
@@ -18,7 +18,17 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 
-   ---
+  ---
+  
+  ### :dart: Реализованые мной проекты за время обучения :
+  
+  -
+  -
+  -
+  -
+  -
+  
+  ---
 
 ### :hammer_and_wrench: Мой стек технологий :
 
