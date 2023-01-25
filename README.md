@@ -21,7 +21,7 @@
 
    ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Мой стек технологий :
 
 <div id="lang" align="center">
  <img src="https://img.icons8.com/metro/2x/c-lowercase.png" title="С" alt="С" width="40" height="40"/>&nbsp;
@@ -34,6 +34,7 @@
 </div>
 
 
+ ---
   
  <div id="counter" align="center">
  <img src="https://komarev.com/ghpvc/?username=SergeyBorozdin&style=flat-square&color=blue" alt=""/>
