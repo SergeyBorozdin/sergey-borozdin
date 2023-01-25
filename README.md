@@ -8,7 +8,7 @@ https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-
 
 
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
@@ -16,7 +16,7 @@ https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-
 
 
 
-<div>
+<div id="lang" align="center">
  <img src="https://img.icons8.com/metro/2x/c-lowercase.png" title="С" alt="С" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" title="С++" alt="С++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
