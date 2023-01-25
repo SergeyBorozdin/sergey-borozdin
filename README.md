@@ -10,8 +10,9 @@
  <img src="https://64.media.tumblr.com/33941b01d11c366cc81a1cbb5d1bf12f/tumblr_mhgb0rshoa1qmo2amo4_500.gifv" width="1000"/>
 </div>
 
-![SergeyBorozdin](index.jpeg)
-
+<div id="header" align="center">
+  ![SergeyBorozdin](index.jpeg)
+</div>
 
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
