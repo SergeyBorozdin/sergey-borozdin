@@ -2,7 +2,7 @@
 https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17
 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100](https://media4.giphy.com/media/XTAqdwCL2oEus/giphy.gif?cid=ecf05e472rd83auh6njk4g39inj9dd1c6wi74f5f4ohrqskv&rid=giphy.gif&ct=g)"/>
+  <img src="[<iframe src="https://giphy.com/embed/XTAqdwCL2oEus" width="480" height="414" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hackers-movie-virtual-XTAqdwCL2oEus">via GIPHY</a></p>"](https://64.media.tumblr.com/33941b01d11c366cc81a1cbb5d1bf12f/tumblr_mhgb0rshoa1qmo2amo4_500.gifv)/>
 </div>
 
 
