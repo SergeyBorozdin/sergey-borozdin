@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="blob:https://web.telegram.org/0dd191e9-75cb-49e8-95a6-892d82eb1daa" width="600" height="300"/>
+  <img src="https://web.telegram.org/0dd191e9-75cb-49e8-95a6-892d82eb1daa" width="600" height="300"/>
 </div>
 
 
