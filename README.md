@@ -3,8 +3,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<div id="foto" align="center">
   <img src="index.jpeg" width="500" align="center">
-  
+</div>
+
+
   ---
   
   ### :man_technologist: Обо мне :
