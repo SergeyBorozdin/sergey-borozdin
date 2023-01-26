@@ -1,4 +1,3 @@
-<!-- center code math uml theme:white -->
 
 <h1>
   Привет, меня зовут Сергей
