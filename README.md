@@ -1,7 +1,7 @@
-<h1>
+<p class="center"
   Привет, меня зовут Сергей
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+p>
 
 <div id="foto" align="center">
   <img src="index.jpeg" width="500" align="center">
