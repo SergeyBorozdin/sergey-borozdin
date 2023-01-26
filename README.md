@@ -4,6 +4,7 @@
 </h1>
 
   ![SergeyBorozdin](index.jpeg)
+  <img src="index.jpeg" width="500">
   
   ---
   
