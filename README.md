@@ -43,9 +43,9 @@
 </div>
 
 ---
-  ### :hammer_and_wrench: МНайти меня в соц сетях :
+  ### :hammer_and_wrench: Найти меня в соц сетях :
   
-<div id="badges" align="center">
+<div id="badges" align="left">
   <a href="https://www.linkedin.com/in/%D1%81%D0%B5%D1%80%D0%B3%D0%B5%D0%B9-%D0%B1%D0%BE%D1%80%D0%BE%D0%B7%D0%B4%D0%B8%D0%BD-b17967218">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
