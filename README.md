@@ -15,12 +15,8 @@
   
   - Изучаю языки програмирования в свободное от работы время.
   - Студент Школы 21, SkillBox, Тинькофф Обучение
-  - Скоро тут появится ссылка на мой профиль LinkedIn
+  - ...
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/%D1%81%D0%B5%D1%80%D0%B3%D0%B5%D0%B9-%D0%B1%D0%BE%D1%80%D0%BE%D0%B7%D0%B4%D0%B8%D0%BD-b17967218">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</div>
 
   ---
   
@@ -46,7 +42,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
 </div>
 
-
+---
+  ### :hammer_and_wrench: МНайти меня в соц сетях :
+  
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/%D1%81%D0%B5%D1%80%D0%B3%D0%B5%D0%B9-%D0%B1%D0%BE%D1%80%D0%BE%D0%B7%D0%B4%D0%B8%D0%BD-b17967218">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
+  
  ---
   
  <div id="counter" align="center">
