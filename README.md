@@ -28,7 +28,7 @@
   - Командный проект **Decimal.h**. В команде из четырех тиммейдов реализовали библиотеку для работы с типом "decimal", который отсутствует в стандарте языка Си <https://github.com/SergeyBorozdin/school21-decimal>
   - Индивидуальные проект **Linux**. В рамках проекта научился установливать и обновлять систему **Linux**, основам администрирования на примере **Ubuntu 20.04 TLS Server** (версия без графического интерфейса) <https://github.com/SergeyBorozdin/s21-devops-linux01>
   - Индивидуальный проект **Matrix** - реализация библиотеки для обработки числовых матриц на языке программирования Си <https://github.com/SergeyBorozdin/school21-matrix>
-  - Тестовое задание от комании **Gridnine system** - реализация системы по обработке авиаперелётов на языке программирования Java <https://github.com/SergeyBorozdin/test-task-gridnine-systems>
+  - Тестовое задание от комании **Gridnine system** - реализация системы по обработке авиаперелётов c различными фильтрами (онлайн табло вылетов) на языке программирования Java <https://github.com/SergeyBorozdin/test-task-gridnine-systems>
   
   
   
