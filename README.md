@@ -30,6 +30,7 @@
   - Индивидуальный проект **Matrix** - реализация библиотеки для обработки числовых матриц на языке программирования Си <https://github.com/SergeyBorozdin/school21-matrix>
   - Тестовое задание от комании **Gridnine system** - реализация системы по обработке авиаперелётов c различными фильтрами (онлайн табло вылетов) на языке программирования Java <https://github.com/SergeyBorozdin/test-task-gridnine-systems>
   - Месенджер на **Python**  <https://github.com/SergeyBorozdin/messanger-on-python>
+  - Задание обучающего курса **SkillBox** - проложение расчитывает время на перемещение из пункта А в пункт Б с учетом пересадок на примере карты метро города Санкт-Петербурга на языке программирования Java. Покрытие тестами, работа с JSON файлами. <https://github.com/SergeyBorozdin/spb-metro>
   
   
   
