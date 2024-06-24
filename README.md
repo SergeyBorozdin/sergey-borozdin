@@ -32,9 +32,9 @@
   - Месенджер на **Python**  <https://github.com/SergeyBorozdin/messanger-on-python>
   - Задание обучающего курса **SkillBox** - проложение расчитывает время на перемещение из пункта А в пункт Б с учетом пересадок на примере карты метро города Санкт-Петербурга на языке программирования Java. Покрытие тестами, работа с JSON файлами. <https://github.com/SergeyBorozdin/spb-metro>
   - Задание обучающего курса **SkillBox** - проложение производит расчет размеров указанной папки и всех вложеных файлов и папок, посредством рекурсии <https://github.com/SergeyBorozdin/biggest-folder-finder>
-  - Попробовал себя в создании сайтов на Tilda, совесем не сложно <https://github.com/SergeyBorozdin/project_tilda>
-  - За время обучения в школе21, командным проектом писали на Си игру Пинг-Понг.. Понастальгировал на Pythone <https://github.com/SergeyBorozdin/pingPong>
-  - Освоил не сложные вычисления в блокноте jupiter, очень удобный инструмент кстати <https://github.com/SergeyBorozdin/python_jupyter_notebook>
+  - Попробовал себя в создании сайтов на **Tilda**, совесем не сложно <https://github.com/SergeyBorozdin/project_tilda>
+  - За время обучения в школе21, командным проектом писали на **Си** игру **Пинг-Понг**.. Понастальгировал на **Python** <https://github.com/SergeyBorozdin/pingPong>
+  - Освоил не сложные вычисления в блокноте **Jupiter**, очень удобный инструмент кстати <https://github.com/SergeyBorozdin/python_jupyter_notebook>
   
   
   
