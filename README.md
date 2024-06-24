@@ -35,7 +35,7 @@
   - Попробовал себя в создании сайтов на **Tilda**, совесем не сложно <https://github.com/SergeyBorozdin/project_tilda>
   - За время обучения в школе21, командным проектом писали на **Си** игру **Пинг-Понг**.. Понастальгировал на **Python** <https://github.com/SergeyBorozdin/pingPong>
   - Освоил не сложные вычисления в блокноте **Jupiter**, очень удобный инструмент кстати <https://github.com/SergeyBorozdin/python_jupyter_notebook>
-  - После знакомства с **Django** на **Python** понял, что смогу, адаптировать реальный рабочий кейс "Реестр оборудрвания". Реализация еще в процессе <https://github.com/SergeyBorozdin/projectDjango>
+  - После знакомства с **Django** на **Python** понял, что смогу, адаптировать реальный рабочий кейс **"Реестр оборудорвания"**. Реализация еще в процессе <https://github.com/SergeyBorozdin/projectDjango>
   
   
   
