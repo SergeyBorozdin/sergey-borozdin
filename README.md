@@ -37,7 +37,6 @@
   - Освоил не сложные вычисления в блокноте **Jupiter**, очень удобный инструмент кстати <https://github.com/SergeyBorozdin/python_jupyter_notebook>
   - После знакомства с **Django** на **Python** понял, что смогу, адаптировать реальный рабочий кейс **"Реестр оборудорвания"**. Реализация еще в процессе <https://github.com/SergeyBorozdin/projectDjango>
   - Погодное приложение на Kotlin <>
-
   - 
   
   
